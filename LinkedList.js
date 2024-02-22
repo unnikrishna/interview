@@ -53,3 +53,12 @@ DoubleLinkedList.prtotype.push = function(val){
     current.next = {value: val, previous: current, next: null}
   }
 }
+
+// EXAMPLES
+//test at least once
+var dll = new DoublyLinkedList();
+dll.push(2);
+dll.push(3);
+dll.push(4);
+dll.push(5);
+
