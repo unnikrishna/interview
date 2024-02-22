@@ -30,3 +30,23 @@ function reverse(llist) {
   head = previousNode;
   return head;
 }
+
+
+
+
+// DOUBLE
+function reverseDLL(dll){
+    let headNode = dll.head,
+        currentNode = dll.head,
+        temp = null;
+    while(currentNode){
+        temp = currentNode.next
+        currentNode.next = currentNode.previous;
+        currentNode.previous = temp;
+        if(temp ==null){
+            dll.head = currentNode
+        }
+        currentNode = temp;
+    }
+    return dll
+}
