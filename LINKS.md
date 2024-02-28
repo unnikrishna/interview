@@ -6,7 +6,7 @@ https://www.geeksforgeeks.org/top-20-linked-list-interview-question/
 
 **Class to function**  ------> https://github.com/unnikrishna/interview/blob/main/ClassToFunc.js
 
-`Bind pollyfill` -> https://github.com/unnikrishna/interview/blob/main/bind.js
+**`Bind pollyfill`** -> https://github.com/unnikrishna/interview/blob/main/bind.js
 
 `Debounce` ---> https://github.com/unnikrishna/interview/blob/main/debounce.js
 
