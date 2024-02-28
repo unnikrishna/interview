@@ -47,6 +47,11 @@ https://www.geeksforgeeks.org/top-20-linked-list-interview-question/
 
 [**`LongestSubstring()`**](https://github.com/unnikrishna/interview/blob/main/findTheLargestSubString.js)
 
+## OBJECT
+[`VALID PARANTHISIS`](https://github.com/unnikrishna/interview/blob/925fb55bec176a1a915036db13e6fd315628184b/Object.js#L5)
+[`BINARY SEARCH TREE`](https://github.com/unnikrishna/interview/blob/925fb55bec176a1a915036db13e6fd315628184b/Object.js#L109)
+[`QUEUE`](https://github.com/unnikrishna/interview/blob/925fb55bec176a1a915036db13e6fd315628184b/Object.js#L216)
+[`LRU CACHE`](https://github.com/unnikrishna/interview/blob/925fb55bec176a1a915036db13e6fd315628184b/Object.js#L38)
 
 ## LINKED LIST
 [`SINGLE LL`](https://github.com/unnikrishna/interview/blob/main/LinkedList.js)
