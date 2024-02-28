@@ -4,7 +4,7 @@ https://www.thatjsdude.com/interview/linkedList.html
 **GEEK:**
 https://www.geeksforgeeks.org/top-20-linked-list-interview-question/
 
-**Class to function**  ------> https://github.com/unnikrishna/interview/blob/main/ClassToFunc.js
+[**Class to function** ](https://github.com/unnikrishna/interview/blob/main/ClassToFunc.js)
 
 **`Bind pollyfill`** -> https://github.com/unnikrishna/interview/blob/main/bind.js
 
