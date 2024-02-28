@@ -21,6 +21,17 @@ https://www.geeksforgeeks.org/top-20-linked-list-interview-question/
 
 ## ARRAY
 
+[**`TWO SUM`**](https://github.com/unnikrishna/interview/blob/bb711697233eb46155922ace1278d46270e2475c/ARRAY_FUNC.js#L4)
+
+[**`ROTATE ARRAY`**](https://github.com/unnikrishna/interview/blob/bb711697233eb46155922ace1278d46270e2475c/ARRAY_FUNC.js#L20)
+
+[**`MERGE SORTED ARRAY`**](https://github.com/unnikrishna/interview/blob/bb711697233eb46155922ace1278d46270e2475c/ARRAY_FUNC.js#L50)
+
+[**`MAX SUBARRAY`**](https://github.com/unnikrishna/interview/blob/bb711697233eb46155922ace1278d46270e2475c/ARRAY_FUNC.js#L78)
+
+[**`GROUP ANAGRAM`**](https://github.com/unnikrishna/interview/blob/bb711697233eb46155922ace1278d46270e2475c/ARRAY_FUNC.js#L97)
+
+[**`THREE SUM`**](https://github.com/unnikrishna/interview/blob/bb711697233eb46155922ace1278d46270e2475c/ARRAY_FUNC.js#L127)
 
 [**`FLATTEN an ARRAY`**](https://github.com/unnikrishna/interview/blob/main/FlattentArray.js)
 
