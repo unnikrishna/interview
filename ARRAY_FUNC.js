@@ -159,3 +159,33 @@ function threeSum(nums, target) {
 // const nums = [-1, 0, 1, 2, 4, -1, -4];
 // const target = 3;
 // console.log(threeSum(nums, target)); // Output: [[-1, -1, 2], [-1, 0, 1]]
+
+
+////////////////////////////////////////////////
+////////////////////QUICK SORT////////////////////////////
+////////////////////////////////////////////////
+function quickSort(arr) {
+    if (arr.length <= 1) {
+        return arr;
+    }
+
+    const pivot = arr[Math.floor(arr.length / 2)];
+    const left = [];
+    const right = [];
+
+    for (let i = 0; i < arr.length; i++) {
+        if (i === Math.floor(arr.length / 2)) {
+            continue;
+        }
+        if (arr[i] < pivot) {
+            left.push(arr[i]);
+        } else {
+            right.push(arr[i]);
+        }
+    }
+
+    return quickSort(left).concat(pivot, quickSort(right));
+}
+
+const arr = [3, 1, 4, 1, 5, 9, 2, 6, 5];
+console.log(quickSort(arr));
