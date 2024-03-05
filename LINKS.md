@@ -25,6 +25,7 @@ https://www.geeksforgeeks.org/top-20-linked-list-interview-question/
 [**`Nth largest number`**](https://github.com/unnikrishna/interview/blob/main/findNthLargestNumber.js) 
 [**`QUICK SORT`**](https://github.com/unnikrishna/interview/blob/2ecdfb7c19136b4f64a95bcad8c1d5bd9b30bc72/ARRAY_FUNC.js#L167) 
 [**`BUBBLE SORT`**](https://github.com/unnikrishna/interview/blob/c8ef681c2924951b80322aaf90d2aebfce5ebaa4/ARRAY_FUNC.js#L197) 
+[**`FIND THE ELEMENT INDEX`**](https://github.com/unnikrishna/interview/blob/b8e1ec3812491773391ef247be33cec3847e7509/ARRAY_FUNC.js#L217) 
 
 ## STRING FUNCTIONS
 
