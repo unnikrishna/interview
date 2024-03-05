@@ -190,6 +190,25 @@ function quickSort(arr) {
 const arr = [3, 1, 4, 1, 5, 9, 2, 6, 5];
 console.log(quickSort(arr));
 
+/////////////////////////////////////////////////////
+/////////////////////BUBBLE SORT////////////////////
+////////////////////////////////////////////////////
+function bubbleSort(arr){
+ let n = arr.length;
+  for(var i=0;i < n;i++) {
+    for(var j=0;j < (n-i-1);j++) {
+      if(arr[j] > arr[j+1])  {
+       var temp=arr[j];
+       arr[j]=arr[j+1];
+       arr[j+1]=temp; 
+     }
+    }
+  }
+  return arr;
+}
+var arr=[2,3,1,4,7,6];
+const sortedArray = bubbleSort(arr);
+
 
 ///////////////////////////////////////////////////
 //////////////////FIND A ELEMENT IN ARRAY////////////
@@ -213,3 +232,4 @@ function elementInArray(array, key) {
 }
 
 console.log(elementInArray([1,3,5,6,9,14,29,57,89],89));
+

@@ -23,6 +23,8 @@ https://www.geeksforgeeks.org/top-20-linked-list-interview-question/
 [**`THREE SUM`**](https://github.com/unnikrishna/interview/blob/bb711697233eb46155922ace1278d46270e2475c/ARRAY_FUNC.js#L127)
 [**`FLATTEN an ARRAY`**](https://github.com/unnikrishna/interview/blob/main/FlattentArray.js)
 [**`Nth largest number`**](https://github.com/unnikrishna/interview/blob/main/findNthLargestNumber.js) 
+[**`QUICK SORT`**](https://github.com/unnikrishna/interview/blob/2ecdfb7c19136b4f64a95bcad8c1d5bd9b30bc72/ARRAY_FUNC.js#L167) 
+[**`BUBBLE SORT`**](https://github.com/unnikrishna/interview/blob/c8ef681c2924951b80322aaf90d2aebfce5ebaa4/ARRAY_FUNC.js#L197) 
 
 ## STRING FUNCTIONS
 
