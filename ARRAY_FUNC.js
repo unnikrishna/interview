@@ -190,7 +190,6 @@ function quickSort(arr) {
 const arr = [3, 1, 4, 1, 5, 9, 2, 6, 5];
 console.log(quickSort(arr));
 
-
 /////////////////////////////////////////////////////
 /////////////////////BUBBLE SORT////////////////////
 ////////////////////////////////////////////////////
@@ -209,3 +208,28 @@ function bubbleSort(arr){
 }
 var arr=[2,3,1,4,7,6];
 const sortedArray = bubbleSort(arr);
+
+
+///////////////////////////////////////////////////
+//////////////////FIND A ELEMENT IN ARRAY////////////
+////////////////////////////////////////////////////
+
+function elementInArray(array, key) {
+	let start = 0;
+  let end = array.length;
+  while(start <= end) {
+  let middle = Math.floor((start+end)/2)
+  	if(array[middle] === key)	{
+    	return middle
+    } else if(array[middle] < key) {
+    	start = middle+1
+    } else {
+    	end = middle - 1
+    }
+  	
+  }
+  return false
+}
+
+console.log(elementInArray([1,3,5,6,9,14,29,57,89],89));
+
